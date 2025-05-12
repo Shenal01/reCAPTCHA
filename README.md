@@ -1,0 +1,2 @@
+# reCAPTCHA
+RULE SET FOR THE REcaptcha
